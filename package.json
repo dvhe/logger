@@ -9,6 +9,18 @@
   },
   "author": "Kyle <k00benne@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvhe/logger.git"
+  },
+  "keywords": [
+    "typescript",
+    "logger",
+    "colors",
+    "console",
+    "cli"
+  ],
+  "homepage": "https://github.com/dvhe/logger#readme",
   "devDependencies": {
     "@types/node": "^13.13.5",
     "ts-node": "8.9.1",
