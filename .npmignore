@@ -1,0 +1,6 @@
+src/test
+nodemon.json
+package-lock.json
+node_modules
+build
+.gitignore
